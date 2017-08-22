@@ -1,0 +1,52 @@
+body {
+    overflow-x: hidden;
+}
+
+.page-body {
+    padding: 24px 10px 0 10px;
+}
+
+#about {
+    background-color: #3C8AB8;
+    padding-top: 10px;
+}
+#about h3 {
+    color: #fff;
+}
+#about p {
+    color: #fff;
+}
+
+#contact {
+    background-color: #E8F4FA;
+    padding-top: 10px;
+}
+#contact ul span.badge {
+    padding: 4px 16px;
+    background-color: #849FBB;
+    font-size: inherit;
+    transition: all 0.5s ease;
+}
+#contact ul span.badge:hover {
+    background-color: #005F97;
+}
+#contact ul span.glyphicon {
+    color: #fff !important;
+}
+
+#work .blurb {
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+#skills .blurb, #other .blurb {
+    margin-bottom: 0;
+    font-style: italic;
+    font-weight: 100;
+}
+
+#footer {
+    background-color: #005F97;
+    color: #fff;
+    margin-top: 30px;
+}
