@@ -21,16 +21,16 @@ body {
     background-color: #E8F4FA;
     padding-top: 10px;
 }
-#contact ul span.badge {
+#contact td span {
     padding: 4px 16px;
     background-color: #849FBB;
     font-size: inherit;
     transition: all 0.5s ease;
 }
-#contact ul span.badge:hover {
+#contact td span:hover {
     background-color: #005F97;
 }
-#contact ul span.glyphicon {
+#contact td span.glyphicon {
     color: #fff !important;
 }
 
